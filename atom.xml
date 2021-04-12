@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PandaFeng</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-04-10T09:01:30.681Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://example.com/2021/04/10/myFirstHexo/"/>
+    <id>http://example.com/2021/04/10/myFirstHexo/</id>
+    <published>2021-04-10T08:27:06.830Z</published>
+    <updated>2021-04-10T09:01:30.681Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的博客，我是一名前端工程师渣渣，因为自小身体健硕，加上上学工作很少锻炼，所以我自称为“冯胖胖”，大家也可以叫我“PandaFeng”。</p><h2 id="创建博客的目的"><a href="#创建博客的目的" class="headerlink" title="创建博客的目的"></a>创建博客的目的</h2><h3 id="首先从我的工作说起"><a href="#首先从我的工作说起" class="headerlink" title="首先从我的工作说起"></a>首先从我的工作说起</h3><p>我现在在一家生产交换机的企业，运维项目组担任一名前端程序员，每天的工作，就是维护公司中监控系统使用的前端框架。<br>为什么说是维护呢？因为在这儿我除了面对框架，没有别的项目进行，这个监控系统不是采用的前后端分离的形式，所有的页面都是有各个页面接口人自己完成，而他们页面中使用的组件就是我目前维护的这个框架产出的。而我就是应对各个页面业务组件的需求，要么在现有的前端组件基础上添加新的功能，要么就是自己重新编写一个新的组件来满足需求。<br>在这差不多两年的时间，之前的那些拿手的东西，也忘得差不多了，我想要充实自己，但是只看不操作，发现自己真的记不住。。。</p><h3 id="其次说下来自外界的压力"><a href="#其次说下来自外界的压力" class="headerlink" title="其次说下来自外界的压力"></a>其次说下来自外界的压力</h3><p>我毕业于石家庄的一所二流大学。毕业文凭也是二本。之前的自己在高考结束之后，对于二本本身没有太感冒，想着这是我自己的事情，我的人生不想需要重新来过。对于父母以及亲戚想让我复读的想法，我是不屑一顾的，最后家里拧不过我，只能是从了我的意愿。<br>其实现在来说我是有点后悔的，现在的公司对于学历的要求似乎更加的一致，整体呈上升的趋势。先不说技术层面的原因，单单是在你找工作投简历的时候，你就会发现一些好的职位，都有明确的学历要求，最然说一些职位也会放宽社招学历要求，但是你看到之后，难免自己心理就已经有点打退堂鼓了，面对这样一个招聘的机会，首先气势就会减弱。在面试进行中的时候，也会因为学历而整个面试都变得比较艰难吧。<br>好的学历真的能让你的面试变得简单并且好学校真的会让面试你的人对你的印象比较好，虽然说可能你的“真实的技术确实不怎么样”。（我现在项目组中就有明显的例子，新任入职之前，被项目经理吹上了天，技术怎么怎么样，懂得多少多少，实际呢，带新人的那个同事会时不时的想我们吐槽，这就是xxx经理吹上天的人？就这，一个部署环境，搞一天都搞不定，一个问题定位一天定位不到，要么就是定位出来不知道怎么解决。。。）<br>再有就是最近我同学们（我宿舍和兄弟宿舍一共12人的群），从去年春节之前就一直在讨论换工作，薪资的问题，是不是就会传来xxx面试xxx公司，拿到了多少多少的offer，虽然挺体他们高兴的，但是回头看看自己的工资条，只能默默的探口气。（我也想出去面试，可是想想自己现在的水平，太难了。。。）</p><h3 id="最后再说说来自生活的压力"><a href="#最后再说说来自生活的压力" class="headerlink" title="最后再说说来自生活的压力"></a>最后再说说来自生活的压力</h3><p>我现在眼瞅着就奔三了，仍然是单身狗一枚。结婚的事家里也着急，我自己也着急，但是很无奈，以现在目前的状况，即使有对象，我是没有勇气去结婚的（更不用说现在丈母娘的要求了），欲哭无泪。</p><p>所以基于以上的几点，我觉得自己应该在把之前的东西捡起来的同时，在提高高自己，争取找到一份满意的工作哈，早日圆了家里老父亲老母亲的爷爷奶奶梦。。。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到我的博客，我是一名前端工程师渣渣，因为自小身体健硕，加上上学工作很少锻炼，所以我自称为“冯胖胖”，大家也可以叫我“PandaFeng”。&lt;/p&gt;
+&lt;h2 id=&quot;创建博客的目的&quot;&gt;&lt;a href=&quot;#创建博客的目的&quot; class=&quot;headerlink&quot; title</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/04/10/hello-world/"/>
+    <id>http://example.com/2021/04/10/hello-world/</id>
+    <published>2021-04-10T08:00:33.246Z</published>
+    <updated>2021-04-10T08:00:33.246Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
